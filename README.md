@@ -17,7 +17,7 @@ const Minutes = 10; // 分
 ```js
 if (today == 0 || today == 6) {
   // 土曜日、日曜日用のメッセージ
-  messageText03 = "今日はいっぱい休みましょう!!";
+  messageText03 += "今日はいっぱい休みましょう!!";
 } else {
   // 平日用のメッセージ
   messageText03 += "仕事頑張れ!!";
