@@ -1,4 +1,4 @@
-### AlarmBot LINE
+## AlarmBot LINE
 
 GAS を使用した目覚まし Bot
 
